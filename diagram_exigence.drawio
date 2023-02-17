@@ -1,1 +1,175 @@
-<mxfile host="app.diagrams.net" modified="2023-02-17T03:55:05.074Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="g1AJvsYkG3sp6Lz3Gmwl" version="20.8.20" type="github"><diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-17T16:50:58.411Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="W6nC65mrg1ZDJh1RQzai" version="20.8.20" type="github">
+  <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
+    <mxGraphModel dx="6319" dy="2419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" style=";html=1;" />
+        <mxCell id="1" style=";html=1;" parent="0" />
+        <mxCell id="1672d66443f91eb5-1" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; margin-left: 10px ; text-align: left&quot;&gt;&lt;b&gt;Diagramme d&#39;exigence&lt;/b&gt;&lt;/p&gt;" style="html=1;strokeWidth=1;shape=mxgraph.sysml.package;html=1;overflow=fill;whiteSpace=wrap;fillColor=none;gradientColor=none;fontSize=12;align=center;labelX=327.64;" parent="1" vertex="1">
+          <mxGeometry x="-240" y="-30" width="1588.5" height="1280" as="geometry" />
+        </mxCell>
+        <mxCell id="1672d66443f91eb5-10" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Exigences&amp;nbsp;fonctionnelles&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Se déplacer d&#39;un endroit à un autre de son environnement en le commandant via une interface permettant de visualiser l&#39;environnement. Mais également de manière autonome. &quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="-200" y="520" width="290" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1672d66443f91eb5-23" value="Title" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
+          <mxGeometry x="-1940" y="90" width="1510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-2" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Commande à distance&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Être commander de n&#39;importe quel pièce.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="210" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-7" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Navigation autonome&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Le robot doit se déplacer de manière autonome dans toutes les pièces de la maison.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="240" y="540" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-8" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Visionner&amp;nbsp;l&#39;environnement du robot&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Percevoir en temps réel l&#39;environnement dans lequel se trouve le robot via un flux vidéo.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="820" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-10" target="SAN8TWHyJxuAeh6kJYFD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-10" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Acquérir des consigne de&amp;nbsp;déplacement&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Recevoir à distance des commande de navigation sur sa vitesse linéaire et angulaire&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="190" width="250" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.003;exitY=0.431;exitDx=0;exitDy=0;dashed=1;exitPerimeter=0;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-11" target="SAN8TWHyJxuAeh6kJYFD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-11" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Interface Web&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Recevoir les commandes doit être envoyer depuis une interface web à travers des boutons de navigation.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="590" y="10" width="250" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-12" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Recherche d&#39;objet&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Rechercher un objet de son environnement qu&#39;on lui aura ordonné.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="220" y="290" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-13" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Représentation de l&#39;environnement&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.3&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Representer l&#39;environnement dans lequel il se trouve sous forme de map 2D.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="240" y="950" width="250" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-14" target="SAN8TWHyJxuAeh6kJYFD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-14" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;Reconnaisance d&#39;objet&lt;/b&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Le robot doit pouvoir reconnaitre dans son environnement un certains nombre d&#39;objet&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-15" target="SAN8TWHyJxuAeh6kJYFD-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-15" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Calcul de distance d&#39;un objet&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Estimer la distance séparant d&#39;un objet&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="660" y="360" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-16" value="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&amp;lt;&amp;lt;requirement&amp;gt;&amp;gt;&lt;br&gt;&lt;b&gt;Odometire&lt;br&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;Id = &quot;1.2.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px ; margin-left: 8px ; text-align: left&quot;&gt;text=&quot;Savoir la position et la vitesse au cours de son déplacement du robot&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="610" y="650" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-17" target="SAN8TWHyJxuAeh6kJYFD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-17" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Encodeur réel du robot&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.2.2&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Donner la vrai vitesse des moteur en boucle fermée.&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="770" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-18" target="SAN8TWHyJxuAeh6kJYFD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-18" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Régulateur PID&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.2.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;S&#39;assurer d&#39;envoyer le signal au moteur afin qu&#39;il suite la consigne de navigation&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="560" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-20" target="SAN8TWHyJxuAeh6kJYFD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-20" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Algorithme de SLAM&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.3.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Représenter l&#39;environnement grâce à un algorithme de SLAM&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="600" y="860" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-21" target="SAN8TWHyJxuAeh6kJYFD-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-21" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Lidar&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.3.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Recueillir les données de l&#39;environnement pour le SLAM&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1060" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-23" target="SAN8TWHyJxuAeh6kJYFD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-23" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;Model de Deep Learning&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1.2.1.1.1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Prédit la nature de l&#39;objet en fonction d&#39;une image ou d&#39;un flux vidéo&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="190" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-24" target="SAN8TWHyJxuAeh6kJYFD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-24" value="&lt;p style=&quot;margin: 4px 0px 0px; text-align: center; font-size: 17px;&quot;&gt;&amp;lt;&amp;lt;block&amp;gt;&amp;gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;b style=&quot;border-color: var(--border-color); font-size: 17px;&quot;&gt;Caméra de profondeur&lt;/b&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;br style=&quot;font-size: 17px;&quot;&gt;&lt;/b&gt;&lt;/p&gt;&lt;hr style=&quot;font-size: 17px;&quot;&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;Id = &quot;1&quot;&lt;/p&gt;&lt;p style=&quot;margin: 0px 0px 0px 8px; text-align: left; font-size: 17px;&quot;&gt;text=&quot;Détermine la distance d&#39;un objet dans son flux vidéo&quot;&lt;/p&gt;" style="shape=rect;html=1;overflow=fill;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="360" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-42" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-7" target="SAN8TWHyJxuAeh6kJYFD-13">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="580" y="510" as="sourcePoint" />
+            <mxPoint x="365" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-43" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.132;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;exitPerimeter=0;entryX=0.208;entryY=1.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-7" target="SAN8TWHyJxuAeh6kJYFD-12">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="500" y="490" as="sourcePoint" />
+            <mxPoint x="270" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-44" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endSize=6;jumpSize=6;arcSize=42;strokeColor=default;" edge="1" parent="1" source="1672d66443f91eb5-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400" y="540" as="sourcePoint" />
+            <mxPoint x="30" y="360" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-55" y="410" />
+              <mxPoint x="30" y="410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-49" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeWidth=2;endSize=6;jumpSize=6;arcSize=42;strokeColor=default;entryX=-0.009;entryY=0.46;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="SAN8TWHyJxuAeh6kJYFD-7">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="90" y="610" as="sourcePoint" />
+            <mxPoint x="175" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="190" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-50" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=0.521;exitY=1.016;exitDx=0;exitDy=0;strokeWidth=2;endSize=6;jumpSize=6;arcSize=42;strokeColor=default;exitPerimeter=0;entryX=0.36;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1672d66443f91eb5-10" target="SAN8TWHyJxuAeh6kJYFD-8">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="-50" y="720" as="sourcePoint" />
+            <mxPoint x="10" y="840" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-51" value="" style="edgeStyle=none;html=1;startArrow=sysMLPackCont;startSize=12;endArrow=none;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeWidth=2;endSize=6;jumpSize=6;arcSize=42;strokeColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SAN8TWHyJxuAeh6kJYFD-7" target="SAN8TWHyJxuAeh6kJYFD-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="512" y="651" as="sourcePoint" />
+            <mxPoint x="660" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="615" />
+              <mxPoint x="560" y="725" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-52" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-20" y="110" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-53" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="485" y="380" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-54" value="&amp;lt;&amp;lt;refine&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="475" y="290" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-55" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="455" y="90" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-56" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="945" y="440" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-57" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="865" y="680" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-58" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="865" y="770" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-59" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="945" y="270" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-60" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="495" y="940" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SAN8TWHyJxuAeh6kJYFD-61" value="&amp;lt;&amp;lt;satisfy&amp;gt;&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="475" y="1100" width="100" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
